@@ -6,9 +6,9 @@ return [
         'concrete' => [
             'driver' => 'c5_pdo_mysql',
             'server' => 'localhost',
-            'database' => 'laurent-franchoi',
+            'database' => 'factorian',
             'username' => 'root',
-            'password' => '',
+            'password' => 'root',
             'charset' => 'utf8',
         ],
     ],
