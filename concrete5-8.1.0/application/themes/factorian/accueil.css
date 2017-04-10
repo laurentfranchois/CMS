@@ -1,0 +1,26 @@
+#first{
+  background-color: black;
+  color:white;
+}
+h2{
+  text-align: center;
+}
+p a{
+  text-align: center;
+}
+#footer ul{
+  list-style-type: none;
+}
+
+#footer{
+  background-color: black;
+  color:white;
+}
+ ul .navbar{
+  display: inline-block;
+}
+
+.nav>li{
+  position: relative;
+  display: inline-block;
+}
